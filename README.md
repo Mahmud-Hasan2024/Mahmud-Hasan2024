@@ -17,26 +17,34 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 
 ### 💻 Tech Stack
 
-**Primary Backend & Database** <p align="left">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+**Primary Backend & Database**
+<p align="left">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" />
+<img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
 </p>
 
-**Tools & Infrastructure** <p align="left">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+**Tools & Infrastructure**
+<p align="left">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="28" />
 </p>
 
-**Frontend (Working Knowledge)** <p align="left">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+---
+
+### 📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-Hasan2024&theme=radical" alt="Mahamud Streak" />
+</p>
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahmud-Hasan2024&theme=radical" alt="Mahamud Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmud-Hasan2024&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -57,15 +65,6 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 - **Focus:** Relational data modeling and production-ready scalability.
 - **Key Logic:** Optimized **Django ORM queries** to handle many-to-many relationships between applicants and postings.
 - [Live API](https://talent-bridge-api.vercel.app/api/v1/) | [Backend Code](https://github.com/Mahmud-Hasan2024/talent-bridge-backend)
-
----
-
-### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmud-Hasan2024&show_icons=true&theme=radical&cache_seconds=1800" alt="Mahamud Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud-Hasan2024&layout=compact&theme=radical&hide=html,css,javascript&cache_seconds=1800" alt="Top Langs" />
-</p>
 
 ---
 
