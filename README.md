@@ -1,55 +1,72 @@
 # 👋 Hi, I'm Mahamud Hasan
-### 🛠️ Backend Engineer | Django & DRF Specialist | DevOps Learner
+### 🛠️ Backend Engineer | Django & DRF Specialist
 
 I specialize in building secure, scalable backend architectures. My focus is on **API Design**, **Database Optimization**, and **System Logic** using Python and the Django ecosystem.
 
 ---
 
-## 🏗️ Technical Expertise
-
-- **Core:** Python (Advanced), Django, Django REST Framework (DRF)
-- **API & Security:** JWT, OAuth2, RBAC (Role-Based Access Control), Swagger/OpenAPI
-- **Databases:** PostgreSQL (Query Optimization), MySQL, Redis (Caching)
-- **DevOps:** Docker, GitHub Actions (CI/CD), Nginx, Gunicorn
-- **Testing/Tools:** Pytest, Postman, Git/GitHub
+### 🔭 About Me
+- 🔭 I’m currently working on **building scalable APIs and backend systems**
+- 🌱 I’m currently learning **Advanced Django patterns, Linux, and AWS**
+- 💬 Ask me about **Django, DRF, and Python**
+- 👯 I’m looking to collaborate on **Open-source Django or Backend-heavy applications**
+- 🥅 Goal: **Securing a Backend role to build production-grade systems**
+- ⚡ Fun fact: **I find genuine joy in a perfectly optimized PostgreSQL query!**
 
 ---
 
-## ⚡ Featured Backend Systems
+### 💻 Tech Stack
 
-### 🍽️ ByteFeast – Restaurant Management API 
-*Modern API architecture with granular security.*
-- **Backend:** DRF, PostgreSQL, JWT
-- **Technical Highlight:** Designed a custom **RBAC (Role-Based Access Control)** system and integrated **Swagger UI** for seamless frontend integration.
-- [API Docs (Swagger)](https://byte-feast-resturant-django-rest-ap.vercel.app/swagger/) | [Backend Code](https://github.com/Mahmud-Hasan2024/ByteFeast-backend)
+**Primary Backend & Database** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎉 NUB Event Management System 
-*Enterprise-level event logic and user workflow.*
-- **Backend:** Django (MVT), PostgreSQL, TailwindCSS
-- **Technical Highlight:** Implemented a complex **Event RSVP system** with many-to-many relationships and logic-heavy admin dashboards.
+**Tools & Infrastructure** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Frontend (Working Knowledge)** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### ⚡ Featured Backend Systems
+
+**🍽️ [ByteFeast – Restaurant Management API](https://github.com/Mahmud-Hasan2024/ByteFeast-backend)**
+- **Focus:** Modern API architecture with granular security.
+- **Key Logic:** Designed a custom **RBAC (Role-Based Access Control)** system and integrated **Swagger UI**.
+- [API Docs](https://byte-feast-resturant-django-rest-ap.vercel.app/swagger/) | [Backend Code](https://github.com/Mahmud-Hasan2024/ByteFeast-backend)
+
+**🎉 [NUB Event Management System](https://github.com/Mahmud-Hasan2024/nub-event-management)**
+- **Focus:** Full-scale event logic and user workflow.
+- **Key Logic:** Implemented a complex **Event RSVP system** and logic-heavy admin dashboards using Django ORM.
 - [Live Demo](https://event-management-9y10.onrender.com) | [Source Code](https://github.com/Mahmud-Hasan2024/nub-event-management)
 
-### 💼 Talent Bridge – Job Portal Engine 
-*Relational data modeling for high-scale applications.*
-- **Backend:** DRF, PostgreSQL, Token Auth
-- **Technical Highlight:** Optimized **Django ORM queries** to handle complex job-seeker and employer data relationships efficiently.
+**💼 [Talent Bridge – Job Portal Engine](https://github.com/Mahmud-Hasan2024/talent-bridge-backend)**
+- **Focus:** Relational data modeling and production-ready scalability.
+- **Key Logic:** Optimized **Django ORM queries** to handle many-to-many relationships between applicants and postings.
 - [Live API](https://talent-bridge-api.vercel.app/api/v1/) | [Backend Code](https://github.com/Mahmud-Hasan2024/talent-bridge-backend)
 
 ---
 
-## 📊 Technical Stats
-![Mahamud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmud-Hasan2024&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud-Hasan2024&layout=compact&theme=radical&hide=html,css,javascript) 
-*(Note: I prioritize Python & SQL logic over frontend languages)*
+### 📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmud-Hasan2024&show_icons=true&theme=radical" alt="Mahamud Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud-Hasan2024&layout=compact&theme=radical&hide=html,css,javascript" alt="Top Langs" />
+</p>
 
 ---
 
-## 🎓 Education
-**BSc in Computer Science & Engineering** Northern University Bangladesh | **CGPA: 3.75 / 4.00** | *Expected 2027*
+### 🎓 Education
+**BSc in Computer Science & Engineering** Northern University Bangladesh | **CGPA: 3.75 / 4.00**
 
----
-
-## 🌐 Connect & Collaborate
-[LinkedIn](https://www.linkedin.com/in/mahmud-hasan-2a19892a6) | [Portfolio](https://mahamud-hasan.onrender.com) | [Email](mailto:mahamudhasan.cse@gmail.com)
-
-⭐ *Always learning, always building.*
+### 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/mahmud-hasan-2a19892a6) | [Portfolio](https://mahamud-hasan.onrender.com) | [Email](mailto:mahmud.hasan.shourov2020@gmail.com)
