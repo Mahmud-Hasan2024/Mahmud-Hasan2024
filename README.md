@@ -37,15 +37,15 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Engineering Activity
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-Hasan2024&theme=radical" alt="Mahamud Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmud-Hasan2024&theme=radical&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahmud-Hasan2024&theme=radical" alt="Mahamud Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmud-Hasan2024&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahmud-Hasan2024&theme=radical&column=4&margin-w=15&no-bg=true" alt="Trophies" />
 </p>
+
 
 ---
 
