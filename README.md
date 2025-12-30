@@ -11,7 +11,7 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 - 💬 Ask me about **Django, DRF, and Python**
 - 👯 I’m looking to collaborate on **Open-source Django or Backend-heavy applications**
 - 🥅 Goal: **Securing a Backend role to build production-grade systems**
-- ⚡ Fun fact: **I find genuine joy in a perfectly optimized PostgreSQL query!**
+- ⚡ Fun fact: **I have a strange love for reading API documentation from start to finish.**
 
 ---
 
