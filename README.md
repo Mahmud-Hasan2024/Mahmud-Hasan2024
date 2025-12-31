@@ -43,20 +43,20 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 
 ### ⚡ Featured Backend Systems
 
-**🍽️ [ByteFeast – Restaurant Management API](https://github.com/Mahmud-Hasan2024/ByteFeast-backend)**
-- **Focus:** Modern API architecture with granular security.
+**🍽️ [ByteFeast – Restaurant Management API](https://byte-feast-react-w8qi.vercel.app/)**
+- **Focus:** Production-grade REST API with granular security architecture.
 - **Key Logic:** Designed a custom **RBAC (Role-Based Access Control)** system and integrated **Swagger UI**.
-- [API Docs](https://byte-feast-resturant-django-rest-ap.vercel.app/swagger/) | [Backend Code](https://github.com/Mahmud-Hasan2024/ByteFeast-backend)
+- [Live Demo](https://byte-feast-react-w8qi.vercel.app/) | [API Docs](https://byte-feast-resturant-django-rest-ap.vercel.app/swagger/) | [Backend Repo](https://github.com/Mahmud-Hasan2024/ByteFeast-backend) | [Frontend Repo](https://github.com/Mahmud-Hasan2024/ByteFeast_frontend)
 
-**🎉 [NUB Event Management System](https://github.com/Mahmud-Hasan2024/nub-event-management)**
-- **Focus:** Full-scale event logic and user workflow.
+**🎉 [NUB Event Management System](https://event-management-9y10.onrender.com)**
+- **Focus:** End-to-end event workflow with role-based user actions.
 - **Key Logic:** Implemented a complex **Event RSVP system** and logic-heavy admin dashboards using Django ORM.
 - [Live Demo](https://event-management-9y10.onrender.com) | [Source Code](https://github.com/Mahmud-Hasan2024/nub-event-management)
 
-**💼 [Talent Bridge – Job Portal Engine](https://github.com/Mahmud-Hasan2024/talent-bridge-backend)**
-- **Focus:** Relational data modeling and production-ready scalability.
+**💼 [Talent Bridge – Job Portal Engine](https://talent-bridge-frontend-psi.vercel.app/)**
+- **Focus:** Scalable relational data modeling with optimized query performance.
 - **Key Logic:** Optimized **Django ORM queries** to handle many-to-many relationships between applicants and postings.
-- [Live API](https://talent-bridge-api.vercel.app/api/v1/) | [Backend Code](https://github.com/Mahmud-Hasan2024/talent-bridge-backend)
+- [Live Demo](https://talent-bridge-frontend-psi.vercel.app/) | [Live API](https://talent-bridge-api.vercel.app/api/v1/) | [Backend Repo](https://github.com/Mahmud-Hasan2024/talent-bridge-backend) | [Frontend Repo](https://github.com/Mahmud-Hasan2024/Talent-Bridge-Frontend)
 
 ---
 
