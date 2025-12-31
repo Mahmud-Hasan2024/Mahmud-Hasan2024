@@ -56,7 +56,7 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 **💼 [Talent Bridge – Job Portal Engine](https://talent-bridge-frontend-psi.vercel.app/)**
 - **Focus:** Scalable relational data modeling with optimized query performance.
 - **Key Logic:** Optimized **Django ORM queries** to handle many-to-many relationships between applicants and postings.
-- [Live Demo](https://talent-bridge-frontend-psi.vercel.app/) | [Live API](https://talent-bridge-api.vercel.app/api/v1/) | [Backend Repo](https://github.com/Mahmud-Hasan2024/talent-bridge-backend) | [Frontend Repo](https://github.com/Mahmud-Hasan2024/Talent-Bridge-Frontend)
+- [Live Demo](https://talent-bridge-frontend-psi.vercel.app/) | [API Docs](https://talent-bridge-api.vercel.app/swagger/) | [Backend Repo](https://github.com/Mahmud-Hasan2024/talent-bridge-backend) | [Frontend Repo](https://github.com/Mahmud-Hasan2024/Talent-Bridge-Frontend)
 
 ---
 
