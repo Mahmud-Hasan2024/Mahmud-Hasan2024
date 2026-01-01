@@ -44,8 +44,8 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 ### ⚡ Featured Backend Systems
 
 **🍽️ [ByteFeast – Restaurant Management API](https://byte-feast-react-w8qi.vercel.app/)**
-- **Focus:** Production-grade REST API with granular security architecture.
-- **Key Logic:** Designed a custom **RBAC (Role-Based Access Control)** system and integrated **Swagger UI**.
+- **Focus:** Secure API architecture with integrated **SSLCOMMERZ** sandbox payment gateway.
+- **Key Logic:** Designed a custom **Role-Based Access Control (RBAC)** system and integrated **Swagger UI** for automated documentation.
 - [Live Demo](https://byte-feast-react-w8qi.vercel.app/) | [API Docs](https://byte-feast-resturant-django-rest-ap.vercel.app/swagger/) | [Backend Repo](https://github.com/Mahmud-Hasan2024/ByteFeast-backend) | [Frontend Repo](https://github.com/Mahmud-Hasan2024/ByteFeast_frontend)
 
 **💼 [Talent Bridge – Job Portal Engine](https://talent-bridge-frontend-psi.vercel.app/)**
