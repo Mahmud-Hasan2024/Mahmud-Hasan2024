@@ -48,15 +48,22 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 - **Key Logic:** Designed a custom **RBAC (Role-Based Access Control)** system and integrated **Swagger UI**.
 - [Live Demo](https://byte-feast-react-w8qi.vercel.app/) | [API Docs](https://byte-feast-resturant-django-rest-ap.vercel.app/swagger/) | [Backend Repo](https://github.com/Mahmud-Hasan2024/ByteFeast-backend) | [Frontend Repo](https://github.com/Mahmud-Hasan2024/ByteFeast_frontend)
 
-**🎉 [NUB Event Management System](https://event-management-9y10.onrender.com)**
-- **Focus:** End-to-end event workflow with role-based user actions.
-- **Key Logic:** Implemented a complex **Event RSVP system** and logic-heavy admin dashboards using Django ORM.
-- [Live Demo](https://event-management-9y10.onrender.com) | [Source Code](https://github.com/Mahmud-Hasan2024/nub-event-management)
-
 **💼 [Talent Bridge – Job Portal Engine](https://talent-bridge-frontend-psi.vercel.app/)**
 - **Focus:** Scalable relational data modeling with optimized query performance.
 - **Key Logic:** Optimized **Django ORM queries** to handle many-to-many relationships between applicants and postings.
 - [Live Demo](https://talent-bridge-frontend-psi.vercel.app/) | [API Docs](https://talent-bridge-api.vercel.app/swagger/) | [Backend Repo](https://github.com/Mahmud-Hasan2024/talent-bridge-backend) | [Frontend Repo](https://github.com/Mahmud-Hasan2024/Talent-Bridge-Frontend)
+
+
+**💼 [The Daily Dispatch – News Portal & Editorial Workflow](https://the-daily-dispatch-fkkp.onrender.com)**
+- **Focus:** Multi-role editorial workflows and event-driven backend automation.
+- **Key Logic:** Implemented a **5-tier RBAC system** and used **Django Signals** for automated email activations and publishing notifications.
+- [Live Demo](https://the-daily-dispatch-fkkp.onrender.com) | [Backend Repo](https://github.com/Mahmud-Hasan2024/The-Daily-Dispatch)
+
+
+**🎉 [NUB Event Management System](https://event-management-9y10.onrender.com)**
+- **Focus:** End-to-end event workflow with role-based user actions.
+- **Key Logic:** Implemented a complex **Event RSVP system** and logic-heavy admin dashboards using Django ORM.
+- [Live Demo](https://event-management-9y10.onrender.com) | [Source Code](https://github.com/Mahmud-Hasan2024/nub-event-management)
 
 ---
 
