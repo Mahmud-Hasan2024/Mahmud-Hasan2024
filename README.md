@@ -58,7 +58,7 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 - **Key Logic:** Implemented a complex **Event RSVP system** and logic-heavy admin dashboards using Django ORM.
 - [Live Demo](https://event-management-9y10.onrender.com) | [Source Code](https://github.com/Mahmud-Hasan2024/nub-event-management)
 
-**💼 [The Daily Dispatch – News Portal & Editorial Workflow](https://the-daily-dispatch-fkkp.onrender.com)**
+**💼 [The Daily Dispatch – News Portal & Editorial Workflow](https://the-daily-dispatch-uvb3.onrender.com/)**
 - **Focus:** Multi-role editorial workflows and event-driven backend automation.
 - **Key Logic:** Implemented a **5-tier RBAC system** and used **Django Signals** for automated email activations and publishing notifications.
 - [Live Demo](https://the-daily-dispatch-uvb3.onrender.com/) | [Backend Repo](https://github.com/Mahmud-Hasan2024/The-Daily-Dispatch)
