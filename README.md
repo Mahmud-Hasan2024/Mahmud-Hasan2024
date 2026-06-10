@@ -69,4 +69,4 @@ I specialize in building secure, scalable backend architectures. My focus is on 
 **BSc in Computer Science & Engineering** Northern University Bangladesh | **CGPA: 3.75 / 4.00**
 
 ### 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/mahmud-hasan-2a19892a6) | [Portfolio](https://mahamud-hasan.onrender.com) | [Email](mailto:mahmud.hasan.shourov2020@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mahmud-hasan-2a19892a6) | [Portfolio](https://mahamud-hasan.onrender.com) | [Resume](https://drive.google.com/file/d/1DADhjw44geNp2uZVeCa0_nVZUpPWzz0v/view?usp=sharing) | [Email](mailto:mahmud.hasan.shourov2020@gmail.com)
